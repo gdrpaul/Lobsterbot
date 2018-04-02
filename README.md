@@ -12,9 +12,16 @@ LobsterData_JNM receives sensor input (Door, Infrared Beam) and transmit informa
 This part is not necessary if you have high-speed DAQ device already.
 
 
+
+
 2.Serial Monitor
+
 If you are using an Arduino Serial Monitor to receive and display data, set the baudrate to 1152000.
+
 If you want to use the default 9600, the baudrate at the LobsterbotData_JNM code should be changed to 9600 as well. 
+
+
+
 
 
 3.Jittering problem
